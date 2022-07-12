@@ -1,5 +1,40 @@
 # Getting Started with Create React App
 
+A project management application built with React and Firebase. <br>
+-Features a react front-end<br>
+-a Firebase login <br>
+-data management showing online status <br>
+-current projects with comments <br>
+-filtering between different projects assigned to users <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Getting Started with Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
