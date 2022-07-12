@@ -7,6 +7,8 @@ A project management application built with React and Firebase. <br>
 -current projects with comments <br>
 -filtering between different projects assigned to users <br>
 
+![manage-it2](https://user-images.githubusercontent.com/81362041/178516784-95f4f0b2-414b-4a3b-841b-de214094207e.PNG)
+
 ![manage-it](https://user-images.githubusercontent.com/81362041/178516506-fa26a024-1024-4696-acb7-9605d3761652.PNG)
 
 
