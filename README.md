@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Manage-it
 
 A project management application built with React and Firebase. <br>
 -Features a react front-end<br>
